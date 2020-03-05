@@ -1,10 +1,10 @@
 -- How to Launch Application --
 
-Put all files in "C:\xampp\htdocs\citrus" folder.
-Launch "xampp-control.exe" and start Apache/MySql.
-Open link "localhost/phpmyadmin" in web browser.
-Create new database and name it "citrus".
-Import the "citrus.sql" file in the "citrus" database.
+1. Put all files in "C:\xampp\htdocs\citrus" folder.
+2. Launch "xampp-control.exe" and start Apache/MySql.
+3. Open link "localhost/phpmyadmin" in web browser.
+4. Create new database and name it "citrus".
+5. Import the "citrus.sql" file in the "citrus" database.
 
 Open link "localhost/citrus.index.php" in web browser.
 
