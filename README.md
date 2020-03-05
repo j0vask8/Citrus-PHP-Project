@@ -21,14 +21,17 @@ password: 1234567
 When you login as admin you are redirected to Admin Panel you see all nonapproved comments ordered by date when posted with paggination.
 You have the option to Approve or Delete comments.
 Through the navigation bar you can logout.
+Admin Panel is avaliable only for user with a Admin role.
+
 
 
 
 -- Things to upgrade --
 
 Since there was a short period of time to finish this project there are many things to be added, fixed and upgraded.
-1. Create layout file/component folder and optimize files
-2. Add registration functionallity
-3. Add Shopping cart
-4. Add try/catch for handling exceptions
-5. Secure SQL queries with Prepare statements etc.
+1. Create layout file/component folder and optimize files.
+2. Add registration functionallity.
+3. Add Shopping cart.
+4. Add try/catch for handling exceptions.
+5. Secure SQL queries with Prepare statements.
+6. Make filtrations for the products/comments etc.
